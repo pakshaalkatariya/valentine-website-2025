@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Himanshi",
+    valentineName: "Dollu",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -34,8 +34,8 @@ const CONFIG = {
         },
         third: {
             text: "Himanshi Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes, always",                                             // Text for "Yes" button
-            noBtn: "Can't say no"                                                 // Text for "No" button
+            yesBtn: "Yes",                                             // Text for "Yes" button
+            noBtn: "NO"                                                 // Text for "No" button
         }
     },
 
